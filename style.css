@@ -220,7 +220,7 @@ p{
 @keyframes words {
   0%,
   20% {
-    content: "Software developer";
+    content: "web developer";
   }
   21%,
   40% {
@@ -228,7 +228,7 @@ p{
   }
   41%,
   60% {
-    content: "Software developer";
+    content: "web developer";
   }
   61%,
   80% {
@@ -658,3 +658,4 @@ section .button #cv-cht-btn{
     color: #b74b4b;
   }
 }
+
