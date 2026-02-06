@@ -653,10 +653,16 @@ section .button #cv-cht-btn{
     margin-top: 15px;
   }
 
+  .skills-details .skills-boxes{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+  }
+  
   .skills-details .skills-boxes .per{
     font-size: 50px;
     color: #b74b4b;
   }
 }
+
 
 
